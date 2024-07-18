@@ -1,0 +1,476 @@
+RUN	performance.PerfTest	perftest	1720876744448	 	3.9.5
+USER	Create and delete article	START	1720876744515
+REQUEST		POST /api/users/login	1720876744653	1720876745335	OK	 
+REQUEST		Create articles: Luceon Frey	1720876745507	1720876746149	OK	 
+USER	Create and delete article	END	1720876746155
+USER	Create and delete article	START	1720876748503
+REQUEST		Create articles: Gyles Rosby	1720876748600	1720876749265	OK	 
+USER	Create and delete article	END	1720876749268
+USER	Create and delete article	START	1720876749513
+REQUEST		Create articles: Joseth Mallister	1720876749575	1720876750234	OK	 
+USER	Create and delete article	END	1720876750237
+USER	Create and delete article	START	1720876750509
+REQUEST		Create articles: Will Humble	1720876750562	1720876751189	OK	 
+USER	Create and delete article	END	1720876751192
+USER	Create and delete article	START	1720876751504
+REQUEST		Create articles: Qalen	1720876751574	1720876752214	OK	 
+USER	Create and delete article	END	1720876752215
+USER	Create and delete article	START	1720876752499
+REQUEST		Create articles: Garth XII Gardener	1720876752550	1720876753189	OK	 
+USER	Create and delete article	END	1720876753192
+USER	Create and delete article	START	1720876753497
+REQUEST		Create articles: Guthor Grimm	1720876753547	1720876754219	OK	 
+USER	Create and delete article	END	1720876754222
+USER	Create and delete article	START	1720876754508
+REQUEST		Create articles: Softfoot	1720876754560	1720876755222	OK	 
+USER	Create and delete article	END	1720876755225
+USER	Create and delete article	START	1720876755502
+REQUEST		Create articles: Serala	1720876755537	1720876756202	OK	 
+USER	Create and delete article	END	1720876756204
+USER	Create and delete article	START	1720876756512
+REQUEST		Create articles: Symond Templeton	1720876756543	1720876757216	OK	 
+USER	Create and delete article	END	1720876757219
+USER	Create and delete article	START	1720876757503
+REQUEST		Create articles: Reznak mo Reznak	1720876757568	1720876758421	OK	 
+USER	Create and delete article	END	1720876758423
+USER	Create and delete article	START	1720876758510
+REQUEST		Create articles: Quentin Tyrell	1720876758547	1720876759187	OK	 
+USER	Create and delete article	END	1720876759189
+USER	Create and delete article	START	1720876759505
+REQUEST		Create articles: Azor Ahai	1720876759541	1720876760178	OK	 
+USER	Create and delete article	END	1720876760181
+USER	Create and delete article	START	1720876760511
+USER	Create and delete article	START	1720876761009
+REQUEST		Create articles: Ocley	1720876760552	1720876761225	OK	 
+USER	Create and delete article	END	1720876761227
+USER	Create and delete article	START	1720876761506
+REQUEST		Create articles: Miklaz	1720876761045	1720876761710	OK	 
+USER	Create and delete article	END	1720876761712
+USER	Create and delete article	START	1720876762003
+REQUEST		Create articles: Gwin Goodbrother	1720876761548	1720876762217	OK	 
+USER	Create and delete article	END	1720876762219
+USER	Create and delete article	START	1720876762502
+REQUEST		Create articles: Eldiss	1720876762038	1720876762934	OK	 
+USER	Create and delete article	END	1720876762936
+USER	Create and delete article	START	1720876762998
+REQUEST		Create articles: Jon Penrose	1720876762541	1720876763133	OK	 
+USER	Create and delete article	END	1720876763135
+USER	Create and delete article	START	1720876763510
+REQUEST		Create articles: Harmune	1720876763038	1720876763754	OK	 
+USER	Create and delete article	END	1720876763756
+USER	Create and delete article	START	1720876764007
+REQUEST		Create articles: Tywin Frey	1720876763548	1720876764190	OK	 
+USER	Create and delete article	END	1720876764193
+USER	Create and delete article	START	1720876764505
+REQUEST		Create articles: Beric Dondarrion	1720876764036	1720876764667	OK	 
+USER	Create and delete article	END	1720876764670
+USER	Create and delete article	START	1720876764999
+REQUEST		Create articles: Janos Slynt	1720876764540	1720876765225	OK	 
+USER	Create and delete article	END	1720876765226
+USER	Create and delete article	START	1720876765511
+REQUEST		Create articles: Joseth Mallister	1720876765029	1720876765798	OK	 
+USER	Create and delete article	END	1720876765800
+USER	Create and delete article	START	1720876766009
+REQUEST		Create articles: Chiswyck	1720876765545	1720876766214	OK	 
+USER	Create and delete article	END	1720876766216
+USER	Create and delete article	START	1720876766505
+REQUEST		Create articles: Eddard Karstark	1720876766044	1720876766656	OK	 
+USER	Create and delete article	END	1720876766657
+USER	Create and delete article	START	1720876766999
+REQUEST		Create articles: Lymond Lychester	1720876766534	1720876767164	OK	 
+USER	Create and delete article	END	1720876767167
+USER	Create and delete article	START	1720876767510
+REQUEST		Create articles: Allar Deem	1720876767024	1720876767951	OK	 
+USER	Create and delete article	END	1720876767954
+USER	Create and delete article	START	1720876768004
+USER	Create and delete article	START	1720876768519
+REQUEST		Create articles: Rolph Spicer	1720876767561	1720876768643	OK	 
+USER	Create and delete article	END	1720876768647
+USER	Create and delete article	START	1720876768998
+REQUEST		Create articles: Long Lew	1720876768044	1720876769077	OK	 
+USER	Create and delete article	END	1720876769079
+REQUEST		Create articles: Bryen Caron	1720876768562	1720876769226	OK	 
+USER	Create and delete article	END	1720876769227
+USER	Create and delete article	START	1720876769498
+REQUEST		Create articles: Jorah Stark	1720876769037	1720876769677	OK	 
+USER	Create and delete article	END	1720876769679
+USER	Create and delete article	START	1720876770001
+REQUEST		Create articles: Raynald Westerling	1720876769567	1720876770180	OK	 
+USER	Create and delete article	END	1720876770181
+USER	Create and delete article	START	1720876770498
+REQUEST		Create articles: Merry Meg	1720876770036	1720876770651	OK	 
+USER	Create and delete article	END	1720876770653
+USER	Create and delete article	START	1720876770998
+REQUEST		Create articles: Bael the Bard	1720876770531	1720876771159	OK	 
+USER	Create and delete article	END	1720876771161
+USER	Create and delete article	START	1720876771502
+REQUEST		Create articles: Wulfe	1720876771041	1720876771711	OK	 
+USER	Create and delete article	END	1720876771712
+USER	Create and delete article	START	1720876771996
+REQUEST		Create articles: Yorko Terys	1720876771532	1720876772144	KO	conduitApp/performance/createArticle.feature:19 status 201
+USER	Create and delete article	END	1720876772159
+USER	Create and delete article	START	1720876772511
+REQUEST		Create articles: Aemond Targaryen	1720876772024	1720876772655	OK	 
+USER	Create and delete article	END	1720876772657
+USER	Create and delete article	START	1720876772837
+USER	Create and delete article	START	1720876773175
+REQUEST		Create articles: Belaquo Bonebreaker	1720876772551	1720876773340	OK	 
+USER	Create and delete article	END	1720876773341
+REQUEST		Create articles: Ralf Stonehouse	1720876772874	1720876773496	OK	 
+USER	Create and delete article	END	1720876773497
+USER	Create and delete article	START	1720876773504
+USER	Create and delete article	START	1720876773752
+REQUEST		Create articles: Wilbert	1720876773198	1720876773906	OK	 
+USER	Create and delete article	END	1720876773907
+USER	Create and delete article	START	1720876774003
+REQUEST		Create articles: Oberyn Martell	1720876773535	1720876774200	OK	 
+USER	Create and delete article	END	1720876774201
+USER	Create and delete article	START	1720876774252
+REQUEST		Create articles: Aegon V Targaryen	1720876773782	1720876774416	OK	 
+USER	Create and delete article	END	1720876774418
+USER	Create and delete article	START	1720876774516
+REQUEST		Create articles: Edwyle Stark	1720876774041	1720876774670	OK	 
+USER	Create and delete article	END	1720876774671
+USER	Create and delete article	START	1720876774748
+REQUEST		Create articles: Urzen	1720876774279	1720876774893	OK	 
+USER	Create and delete article	END	1720876774895
+USER	Create and delete article	START	1720876774998
+REQUEST		Create articles: Ned	1720876774546	1720876775154	OK	 
+USER	Create and delete article	END	1720876775155
+USER	Create and delete article	START	1720876775261
+USER	Create and delete article	START	1720876775509
+REQUEST		Create articles: Philip Plumm	1720876774789	1720876775542	OK	 
+USER	Create and delete article	END	1720876775543
+REQUEST		Create articles: Visenya Targaryen	1720876775032	1720876775710	OK	 
+USER	Create and delete article	END	1720876775711
+USER	Create and delete article	START	1720876775761
+USER	Create and delete article	START	1720876776007
+REQUEST		Create articles: Mycah	1720876775292	1720876776093	OK	 
+USER	Create and delete article	END	1720876776094
+REQUEST		Create articles: Alys Arryn	1720876775543	1720876776250	OK	 
+USER	Create and delete article	END	1720876776251
+USER	Create and delete article	START	1720876776256
+REQUEST		Create articles: Nymos	1720876775785	1720876776399	OK	 
+USER	Create and delete article	END	1720876776400
+USER	Create and delete article	START	1720876776505
+REQUEST		Create articles: Todric	1720876776035	1720876776636	KO	conduitApp/performance/createArticle.feature:19 status 201
+USER	Create and delete article	END	1720876776637
+USER	Create and delete article	START	1720876776751
+REQUEST		Create articles: Robin Ryger	1720876776291	1720876776923	OK	 
+USER	Create and delete article	END	1720876776925
+USER	Create and delete article	START	1720876777011
+REQUEST		Create articles: Edric Storm	1720876776539	1720876777130	OK	 
+USER	Create and delete article	END	1720876777131
+USER	Create and delete article	START	1720876777258
+REQUEST		Create articles: Aggar	1720876776787	1720876777459	OK	 
+USER	Create and delete article	END	1720876777463
+USER	Create and delete article	START	1720876777520
+USER	Create and delete article	START	1720876777705
+REQUEST		Create articles: Timeon	1720876777063	1720876777757	OK	 
+USER	Create and delete article	END	1720876777759
+USER	Create and delete article	START	1720876777908
+REQUEST		Create articles: Jeor Mormont	1720876777293	1720876777938	OK	 
+USER	Create and delete article	END	1720876777940
+USER	Create and delete article	START	1720876778109
+REQUEST		Create articles: Androw Ashford	1720876777557	1720876778213	OK	 
+USER	Create and delete article	END	1720876778215
+USER	Create and delete article	START	1720876778312
+REQUEST		Create articles: Porridge	1720876777757	1720876778362	OK	 
+USER	Create and delete article	END	1720876778363
+USER	Create and delete article	START	1720876778498
+REQUEST		Create articles: Steffarion Sparr	1720876777954	1720876778594	OK	 
+USER	Create and delete article	END	1720876778594
+USER	Create and delete article	START	1720876778667
+USER	Create and delete article	START	1720876778836
+REQUEST		Create articles: Trystane Martell	1720876778138	1720876778876	OK	 
+USER	Create and delete article	END	1720876778878
+REQUEST		Create articles: Symond Templeton	1720876778342	1720876778964	OK	 
+USER	Create and delete article	END	1720876778964
+USER	Create and delete article	START	1720876779008
+REQUEST		Create articles: Grazdan zo Galare	1720876778532	1720876779141	OK	 
+USER	Create and delete article	END	1720876779143
+USER	Create and delete article	START	1720876779176
+USER	Create and delete article	START	1720876779331
+REQUEST		Create articles: Grey King	1720876778698	1720876779337	OK	 
+USER	Create and delete article	END	1720876779338
+USER	Create and delete article	START	1720876779501
+REQUEST		Create articles: Walda Frey	1720876778876	1720876779519	OK	 
+USER	Create and delete article	END	1720876779520
+USER	Create and delete article	START	1720876779671
+REQUEST		Create articles: Quentyn Qorgyle	1720876779036	1720876779692	OK	 
+USER	Create and delete article	END	1720876779696
+USER	Create and delete article	START	1720876779842
+REQUEST		Create articles: Jasper Redfort	1720876779200	1720876779844	OK	 
+USER	Create and delete article	END	1720876779845
+REQUEST		Create articles: Rafford	1720876779357	1720876779995	OK	 
+USER	Create and delete article	END	1720876779997
+USER	Create and delete article	START	1720876779998
+USER	Create and delete article	START	1720876780171
+REQUEST		Create articles: Godric Borrell	1720876779535	1720876780199	OK	 
+USER	Create and delete article	END	1720876780200
+USER	Create and delete article	START	1720876780343
+REQUEST		Create articles: Castos	1720876779705	1720876780407	OK	 
+USER	Create and delete article	END	1720876780410
+USER	Create and delete article	START	1720876780498
+REQUEST		Create articles: Timon	1720876779894	1720876780629	OK	 
+USER	Create and delete article	END	1720876780630
+USER	Create and delete article	START	1720876780673
+REQUEST		Create articles: Maggy	1720876780033	1720876780754	OK	 
+USER	Create and delete article	END	1720876780756
+USER	Create and delete article	START	1720876780842
+REQUEST		Create articles: Qos	1720876780201	1720876780961	OK	 
+USER	Create and delete article	END	1720876780962
+USER	Create and delete article	START	1720876781012
+REQUEST		Create articles: Gunthor Hightower	1720876780365	1720876781014	OK	 
+USER	Create and delete article	END	1720876781015
+USER	Create and delete article	START	1720876781168
+USER	Create and delete article	START	1720876781339
+REQUEST		Create articles: Ocley	1720876780528	1720876781346	OK	 
+REQUEST		Create articles: Torbert	1720876780699	1720876781346	OK	 
+USER	Create and delete article	END	1720876781347
+USER	Create and delete article	END	1720876781347
+USER	Create and delete article	START	1720876781510
+REQUEST		Create articles: Alayaya	1720876780868	1720876781532	OK	 
+USER	Create and delete article	END	1720876781534
+USER	Create and delete article	START	1720876781666
+REQUEST		Create articles: Garse Goodbrook	1720876781047	1720876781767	OK	 
+USER	Create and delete article	END	1720876781768
+REQUEST		Create articles: Bryen Farring	1720876781204	1720876781814	OK	 
+USER	Create and delete article	END	1720876781815
+USER	Create and delete article	START	1720876781836
+REQUEST		Create articles: Kenned	1720876781360	1720876782000	OK	 
+USER	Create and delete article	END	1720876782001
+USER	Create and delete article	START	1720876782008
+REQUEST		Create articles: Gwayne Hightower	1720876781546	1720876782154	OK	 
+USER	Create and delete article	END	1720876782155
+USER	Create and delete article	START	1720876782177
+USER	Create and delete article	START	1720876782332
+REQUEST		Create articles: Jaime Frey	1720876781686	1720876782352	OK	 
+USER	Create and delete article	END	1720876782354
+USER	Create and delete article	START	1720876782502
+REQUEST		Create articles: Loreza Sand	1720876781877	1720876782524	OK	 
+USER	Create and delete article	END	1720876782526
+USER	Create and delete article	START	1720876782641
+REQUEST		Create articles: Hake	1720876782042	1720876782694	OK	 
+USER	Create and delete article	END	1720876782695
+USER	Create and delete article	START	1720876782795
+REQUEST		Create articles: Jommo	1720876782207	1720876782829	OK	 
+USER	Create and delete article	END	1720876782832
+USER	Create and delete article	START	1720876782934
+REQUEST		Create articles: Manfrey Martell	1720876782367	1720876783068	OK	 
+USER	Create and delete article	END	1720876783069
+USER	Create and delete article	START	1720876783074
+REQUEST		Create articles: Briar	1720876782525	1720876783176	OK	 
+USER	Create and delete article	END	1720876783178
+USER	Create and delete article	START	1720876783213
+REQUEST		Create articles: Murch	1720876782667	1720876783331	OK	 
+USER	Create and delete article	END	1720876783333
+USER	Create and delete article	START	1720876783368
+USER	Create and delete article	START	1720876783508
+REQUEST		Create articles: Nella	1720876782836	1720876783590	OK	 
+USER	Create and delete article	END	1720876783591
+USER	Create and delete article	START	1720876783632
+REQUEST		Create articles: Thoros of Myr	1720876782972	1720876783714	OK	 
+USER	Create and delete article	END	1720876783716
+USER	Create and delete article	START	1720876783756
+REQUEST		Create articles: Ricasso	1720876783121	1720876783870	OK	 
+USER	Create and delete article	END	1720876783871
+USER	Create and delete article	START	1720876783880
+REQUEST		Create articles: Hugh Beesbury	1720876783252	1720876783917	OK	 
+USER	Create and delete article	END	1720876783918
+USER	Create and delete article	START	1720876784002
+USER	Create and delete article	START	1720876784124
+USER	Create and delete article	START	1720876784249
+REQUEST		Create articles: Zharaq zo Loraq	1720876783527	1720876784251	OK	 
+USER	Create and delete article	END	1720876784252
+REQUEST		Create articles: Jeffory Norcross	1720876783406	1720876784255	OK	 
+USER	Create and delete article	END	1720876784256
+REQUEST		Create articles: Lyanna Mormont	1720876783662	1720876784295	OK	 
+USER	Create and delete article	END	1720876784296
+USER	Create and delete article	START	1720876784373
+REQUEST		Create articles: Byam Flint	1720876783780	1720876784421	OK	 
+USER	Create and delete article	END	1720876784422
+USER	Create and delete article	START	1720876784497
+REQUEST		Create articles: Paxter Redwyne	1720876783913	1720876784526	OK	 
+USER	Create and delete article	END	1720876784528
+USER	Create and delete article	START	1720876784637
+REQUEST		Create articles: Quent	1720876784028	1720876784663	OK	 
+USER	Create and delete article	END	1720876784664
+REQUEST		Create articles: Hodor	1720876784147	1720876784754	OK	 
+USER	Create and delete article	END	1720876784755
+USER	Create and delete article	START	1720876784761
+USER	Create and delete article	START	1720876784885
+REQUEST		Create articles: Drogo	1720876784283	1720876784916	OK	 
+USER	Create and delete article	END	1720876784919
+USER	Create and delete article	START	1720876785010
+REQUEST		Create articles: Helliweg	1720876784399	1720876785022	OK	 
+USER	Create and delete article	END	1720876785024
+REQUEST		Create articles: Armen	1720876784528	1720876785117	OK	 
+USER	Create and delete article	END	1720876785118
+USER	Create and delete article	START	1720876785134
+USER	Create and delete article	START	1720876785259
+REQUEST		Create articles: Poul Pemford	1720876784661	1720876785263	OK	 
+USER	Create and delete article	END	1720876785264
+USER	Create and delete article	START	1720876785382
+REQUEST		Create articles: Melara Hetherspoon	1720876784796	1720876785401	OK	 
+USER	Create and delete article	END	1720876785402
+USER	Create and delete article	START	1720876785508
+REQUEST		Create articles: Borcas	1720876784919	1720876785533	OK	 
+USER	Create and delete article	END	1720876785535
+USER	Create and delete article	START	1720876785633
+REQUEST		Create articles: Beck	1720876785053	1720876785662	OK	 
+USER	Create and delete article	END	1720876785663
+USER	Create and delete article	START	1720876785755
+REQUEST		Create articles: Balon Swann	1720876785162	1720876785782	OK	 
+USER	Create and delete article	END	1720876785783
+USER	Create and delete article	START	1720876785879
+REQUEST		Create articles: Denestan	1720876785288	1720876785931	OK	 
+USER	Create and delete article	END	1720876785932
+USER	Create and delete article	START	1720876786003
+USER	Create and delete article	START	1720876786126
+REQUEST		Create articles: Wyl	1720876785531	1720876786145	OK	 
+USER	Create and delete article	END	1720876786146
+USER	Create and delete article	START	1720876786251
+REQUEST		Create articles: Fern	1720876785659	1720876786279	OK	 
+USER	Create and delete article	END	1720876786281
+REQUEST		Create articles: Lothar	1720876785409	1720876786348	OK	 
+USER	Create and delete article	END	1720876786352
+USER	Create and delete article	START	1720876786377
+REQUEST		Create articles: Ulf the White	1720876785775	1720876786496	OK	 
+USER	Create and delete article	START	1720876786500
+USER	Create and delete article	END	1720876786500
+REQUEST		Create articles: Gawen Westerling	1720876785906	1720876786586	OK	 
+USER	Create and delete article	END	1720876786588
+USER	Create and delete article	START	1720876786623
+REQUEST		Create articles: Cassana Estermont	1720876786032	1720876786650	OK	 
+USER	Create and delete article	END	1720876786651
+USER	Create and delete article	START	1720876786761
+REQUEST		Create articles: Chella	1720876786147	1720876786842	OK	 
+USER	Create and delete article	END	1720876786844
+USER	Create and delete article	START	1720876786885
+REQUEST		Create articles: Lollys Stokeworth	1720876786275	1720876786922	OK	 
+USER	Create and delete article	END	1720876786924
+USER	Create and delete article	START	1720876787010
+REQUEST		Create articles: Jate Blackberry	1720876786447	1720876787096	OK	 
+USER	Create and delete article	END	1720876787097
+USER	Create and delete article	START	1720876787134
+REQUEST		Create articles: Criston Cole	1720876786580	1720876787253	OK	 
+USER	Create and delete article	END	1720876787254
+USER	Create and delete article	START	1720876787258
+USER	Create and delete article	START	1720876787380
+REQUEST		Create articles: Bhakaz zo Loraq	1720876786790	1720876787441	OK	 
+USER	Create and delete article	END	1720876787442
+USER	Create and delete article	START	1720876787508
+REQUEST		Create articles: Benedict	1720876786939	1720876787538	OK	 
+USER	Create and delete article	END	1720876787540
+USER	Create and delete article	START	1720876787616
+REQUEST		Create articles: Hibald	1720876787044	1720876787629	OK	 
+USER	Create and delete article	END	1720876787631
+REQUEST		Create articles: Benfrey Frey	1720876786685	1720876787639	OK	 
+USER	Create and delete article	END	1720876787641
+USER	Create and delete article	START	1720876787724
+REQUEST		Create articles: Unella	1720876787173	1720876787828	OK	 
+USER	Create and delete article	END	1720876787829
+USER	Create and delete article	START	1720876787834
+REQUEST		Create articles: Myranda Royce	1720876787285	1720876787914	OK	 
+USER	Create and delete article	END	1720876787916
+USER	Create and delete article	START	1720876787941
+REQUEST		Create articles: Will Humble	1720876787411	1720876788049	OK	 
+USER	Create and delete article	END	1720876788050
+USER	Create and delete article	START	1720876788064
+USER	Create and delete article	START	1720876788175
+REQUEST		Create articles: Dywen	1720876787531	1720876788215	OK	 
+USER	Create and delete article	END	1720876788216
+REQUEST		Create articles: Humfrey Beesbury	1720876787641	1720876788264	OK	 
+USER	Create and delete article	END	1720876788266
+USER	Create and delete article	START	1720876788283
+USER	Create and delete article	START	1720876788392
+REQUEST		Create articles: Walda Frey	1720876787747	1720876788393	OK	 
+USER	Create and delete article	END	1720876788395
+USER	Create and delete article	START	1720876788515
+USER	Create and delete article	START	1720876788608
+REQUEST		Create articles: Penny Jenny	1720876787968	1720876788610	OK	 
+USER	Create and delete article	END	1720876788612
+USER	Create and delete article	START	1720876788701
+REQUEST		Create articles: Dick Follard	1720876788084	1720876788730	OK	 
+USER	Create and delete article	END	1720876788730
+REQUEST		Create articles: Brandon the Daughterless	1720876788196	1720876788790	OK	 
+USER	Create and delete article	END	1720876788792
+REQUEST		Create articles: Byan Votyris	1720876787863	1720876788802	OK	 
+USER	Create and delete article	END	1720876788803
+USER	Create and delete article	START	1720876788808
+USER	Create and delete article	START	1720876788902
+REQUEST		Create articles: Guthor Grimm	1720876788301	1720876788904	OK	 
+USER	Create and delete article	END	1720876788905
+USER	Create and delete article	START	1720876789011
+REQUEST		Create articles: Garth Greenhand	1720876788417	1720876789044	OK	 
+USER	Create and delete article	END	1720876789045
+USER	Create and delete article	START	1720876789104
+REQUEST		Create articles: Jaime Lannister	1720876788538	1720876789132	OK	 
+USER	Create and delete article	END	1720876789132
+USER	Create and delete article	START	1720876789199
+REQUEST		Create articles: Chett	1720876788635	1720876789242	OK	 
+USER	Create and delete article	END	1720876789244
+REQUEST		Create articles: Orys Baratheon	1720876788730	1720876789306	OK	 
+USER	Create and delete article	END	1720876789306
+USER	Create and delete article	START	1720876789309
+USER	Create and delete article	START	1720876789400
+REQUEST		Create articles: Alannys Harlaw	1720876788831	1720876789457	OK	 
+USER	Create and delete article	END	1720876789459
+REQUEST		Create articles: Zollo	1720876788930	1720876789507	KO	conduitApp/performance/createArticle.feature:19 status 201
+USER	Create and delete article	END	1720876789508
+USER	Create and delete article	START	1720876789509
+USER	Create and delete article	START	1720876789603
+REQUEST		Create articles: Cedric Payne	1720876789030	1720876789636	OK	 
+USER	Create and delete article	END	1720876789636
+REQUEST		Create articles: Eon Hunter	1720876789132	1720876789708	OK	 
+USER	Create and delete article	END	1720876789708
+USER	Create and delete article	START	1720876789712
+USER	Create and delete article	START	1720876789804
+REQUEST		Create articles: Meha	1720876789223	1720876789832	OK	 
+USER	Create and delete article	END	1720876789834
+USER	Create and delete article	START	1720876789911
+REQUEST		Create articles: Hallis Mollen	1720876789336	1720876789962	OK	 
+USER	Create and delete article	END	1720876789964
+USER	Create and delete article	START	1720876790003
+USER	Create and delete article	START	1720876790110
+REQUEST		Create articles: Agrivane	1720876789420	1720876790143	OK	 
+USER	Create and delete article	END	1720876790145
+USER	Create and delete article	START	1720876790203
+REQUEST		Create articles: Canker Jeyne	1720876789624	1720876790264	OK	 
+USER	Create and delete article	END	1720876790265
+REQUEST		Create articles: Hoarfrost Umber	1720876789549	1720876790290	OK	 
+USER	Create and delete article	END	1720876790292
+USER	Create and delete article	START	1720876790309
+REQUEST		Create articles: Jhiqui	1720876789734	1720876790327	OK	 
+USER	Create and delete article	END	1720876790328
+USER	Create and delete article	START	1720876790403
+REQUEST		Create articles: Larraq	1720876789832	1720876790408	OK	 
+USER	Create and delete article	END	1720876790410
+REQUEST		Create articles: Raymund Tyrell	1720876790033	1720876790668	OK	 
+USER	Create and delete article	END	1720876790669
+REQUEST		Create articles: Beren Tallhart	1720876790130	1720876790762	OK	 
+USER	Create and delete article	END	1720876790762
+REQUEST		Create articles: Gunthor son of Gurn	1720876790235	1720876790819	OK	 
+USER	Create and delete article	END	1720876790820
+REQUEST		Create articles: Samwell Spicer	1720876790326	1720876790948	OK	 
+USER	Create and delete article	END	1720876790948
+REQUEST		Create articles: Brynden Rivers	1720876790436	1720876791024	OK	 
+USER	Create and delete article	END	1720876791025
+REQUEST		Create articles: Dunsen	1720876789949	1720876791603	OK	 
+USER	Create and delete article	END	1720876791603
+USER	Create and delete article	START	1720876795512
+REQUEST		Create articles: Alester Florent	1720876795531	1720876796138	OK	 
+USER	Create and delete article	END	1720876796139
+USER	Create and delete article	START	1720876796504
+REQUEST		Create articles: Orbelo	1720876796526	1720876797163	OK	 
+USER	Create and delete article	END	1720876797163
+USER	Create and delete article	START	1720876797516
+REQUEST		Create articles: Melwys Rivers	1720876797537	1720876798136	OK	 
+USER	Create and delete article	END	1720876798137
+USER	Create and delete article	START	1720876798505
+REQUEST		Create articles: Shiera Seastar	1720876798535	1720876799143	OK	 
+USER	Create and delete article	END	1720876799144
+USER	Create and delete article	START	1720876799509
+REQUEST		Create articles: Tybero Istarion	1720876799539	1720876800145	OK	 
+USER	Create and delete article	END	1720876800146
