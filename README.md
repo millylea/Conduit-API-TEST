@@ -18,7 +18,7 @@ To run this test, you must have [Karate set up] (https://github.com/karatelabs/k
   mvn test -Dkarate.options="--tags ~~@skipme"
   ```
 ### Reports
-Report are auto-generated in "target/cucumber-html-reports " folder
+Reports are auto-generated in "target/cucumber-html-reports " folder
 ![Screenshot 2024-07-22 091935](https://github.com/user-attachments/assets/d2fa38e8-449c-47ed-b7fb-dbbdc2843758)
 
 ![Screenshot 2024-07-22 092011](https://github.com/user-attachments/assets/7697d8e9-a4f8-401f-aac3-dfaf0767fb71)
